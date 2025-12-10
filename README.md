@@ -3,8 +3,8 @@
 - 本科在读，专注于前端 & 全栈开发 & 网络运维  
 - 熟练使用 **Vue 3.2**、**React 16** 进行前端开发  
 - 熟悉 **Node.js 全栈开发**、SSR 服务端渲染  
-- 正在学习：**Electron 桌面端**、**React Native 移动端**、大前端工程化等技术栈  
-- 熟悉 **Python 网络爬虫**、服务器运维（特别是 COS 云服务器）
+- 正在学习：**Electron 桌面端**、**React Native 移动端**等大前端技术栈
+- 熟悉 **Nodejs、Python 网络爬虫**、服务器运维
 
 ---
 
@@ -25,17 +25,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-2D2D2D?logo=react&logoColor=61DAFB)
 ![WebRTC](https://img.shields.io/badge/WebRTC-2D2D2D?logo=webrtc&logoColor=white)
 
----
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrior-lcl&layout=compact&theme=dark&hide_border=true)
-
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrior-lcl&show_icons=true&theme=dark&hide_border=true)
 
 
 <!---

@@ -11,19 +11,19 @@
 ## 🛠 技术栈
 
 ### Frontend
-![Vue](https://img.shields.io/badge/Vue%203.2-2D2D2D?logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React%2016-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D2D2D?logo=typescript&logoColor=3178C6)
-![Less](https://img.shields.io/badge/Less-2D2D2D?logo=less&logoColor=1D365D)
+![Vue](https://img.shields.io/badge/Vue%203.2-ECECEC?logo=vuedotjs&logoColor=42B883)
+![React](https://img.shields.io/badge/React%2016-ECECEC?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-ECECEC?logo=typescript&logoColor=3178C6)
+![Less](https://img.shields.io/badge/Less-ECECEC?logo=less&logoColor=1D365D)
 
 ### Full-stack & Tools
-![Node.js](https://img.shields.io/badge/Node.js-2D2D2D?logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-2D2D2D?logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-ECECEC?logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-ECECEC?logo=python&logoColor=3776AB)
 
 ### Currently Learning
-![Electron](https://img.shields.io/badge/Electron-2D2D2D?logo=electron&logoColor=9FEAF9)
-![React Native](https://img.shields.io/badge/React%20Native-2D2D2D?logo=react&logoColor=61DAFB)
-![WebRTC](https://img.shields.io/badge/WebRTC-2D2D2D?logo=webrtc&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-ECECEC?logo=electron&logoColor=2B2E3A)
+![React Native](https://img.shields.io/badge/React%20Native-ECECEC?logo=react&logoColor=61DAFB)
+![WebRTC](https://img.shields.io/badge/WebRTC-ECECEC?logo=webrtc&logoColor=EB4335)
 
 
 

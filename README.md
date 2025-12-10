@@ -24,29 +24,6 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc)
 
----
-
-## 🐍 Python & 网络技术
-- 熟悉 Python、Node 爬虫
-- 有 **Linux/COS 服务器运维经验（nginx / systemd / SSL）**
-- 熟悉部署 Node、Python、前端项目
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=ATRIOR-LCL&show_icons=true&theme=radical)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATRIOR-LCL&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📫 联系我
-如果你对我的项目或经验感兴趣，欢迎一起交流开发！
 
 <!---
 ATRIOR-LCL/ATRIOR-LCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

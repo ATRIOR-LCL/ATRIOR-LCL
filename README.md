@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/148603373?v=4" width="110" style="border-radius:50%" alt="atrior" />
-
 # 👋 Hi, I'm atrior
 
 **Front-end · Cross-platform · Full-stack**
@@ -18,9 +16,9 @@ Member of [SDUTACM Light Cone Lab](https://lcl.sdutacm.cn/) and the [algoUX](htt
 
 ## 🧑‍💻 About Me
 
-- 🏢 Working at **Tencent Cloud**, building for the web and beyond
+- 🏢 Working at [@TencentCloud](https://cloud.tencent.com/), building for the web and beyond
 - 🧪 Building competitive-programming infrastructure with **SDUTACM Light Cone Lab** & **algoUX** — online judges, rank lists, contest tooling
-- 🌱 Currently exploring **AI agents / agent skills**, SSR, and cross-platform app delivery
+- 🌱 Currently working on **front-end engineering & tooling** and **AI-powered developer efficiency tools**
 - ✍️ I write things down at [atrior.mushan.top](https://atrior.mushan.top/)
 
 ## 🛠️ Tech Stack
@@ -45,23 +43,6 @@ Member of [SDUTACM Light Cone Lab](https://lcl.sdutacm.cn/) and the [algoUX](htt
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ATRIOR-LCL&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATRIOR-LCL&layout=compact&hide_border=true&langs_count=8&theme=default" alt="top langs" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ATRIOR-LCL&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -79,7 +60,7 @@ Member of [SDUTACM Light Cone Lab](https://lcl.sdutacm.cn/) and the [algoUX](htt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ATRIOR-LCL&layout=compact&hide_border=true" alt="wakatime" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ATRIOR-LCL&layout=compact&hide_border=true" alt="wakatime" />
 
 </div>
 -->
